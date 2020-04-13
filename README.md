@@ -10,7 +10,7 @@ Esta aplicação se integra com a **[API](https://github.com/Jonathan-Sales/gost
 
 ```
     /* Clonar o repositório */
-    git clone https://github.com/Jonathan-Sales/gostack11-conceitos-reactjs.git
+    git clone https://github.com/Jonathan-Sales/gostack11-conceitos-react-native.git
 
     /* Instalar as dependências */
     yarn
